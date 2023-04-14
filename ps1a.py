@@ -5,6 +5,7 @@
 #2. The portion of salary to be saved (portion_saved)
 #3. The cost of your dream home (total_cost)
 
+
 current_savings = 0
 r = 0.04
 months = 0
